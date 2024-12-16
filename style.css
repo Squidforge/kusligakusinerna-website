@@ -22,7 +22,7 @@ body {
     background: linear-gradient(to right, rgb(60, 116, 214), rgba(255, 255, 255, 0),  rgba(255, 255, 255, 0)); 
     backdrop-filter: blur(6px);
     /* background: radial-gradient(circle, rgb(222, 222, 222), rgb(255, 255, 255)); */
-    outline: 2px solid rgba(60, 119, 214, 0.347);
+    outline: 4px solid rgba(60, 119, 214, 0.347);
     color: white;
     border-radius: 10px;
     margin-top: 0.5vw;
@@ -30,7 +30,7 @@ body {
 
 .header a {
     color: rgba(255, 255, 255, 0.685);
-    outline: 2px solid rgba(60, 119, 214, 0.347);
+    outline: 4px solid rgba(60, 119, 214, 0.347);
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -64,7 +64,7 @@ body {
 }
 
 .text-box {
-    outline: 2px dashed rgba(60, 119, 214, 0.347);
+    outline: 4px dashed rgba(60, 119, 214, 0.347);
     padding: 45px;
     width: 40vw;
     margin: 0 auto;
@@ -99,7 +99,7 @@ body {
 }
 
 .portfolio {
-    outline: 2px dashed rgba(60, 119, 214, 0.347);
+    outline: 4px dashed rgba(60, 119, 214, 0.347);
     padding: 45px;
     width: 45%;
     margin: 10px 0;
